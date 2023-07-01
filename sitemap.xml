@@ -38,18 +38,18 @@
   </url>
   
   <url>
-    <loc>https://ching367436.github.io/categories/</loc>
+    <loc>https://ching367436.github.io/about/</loc>
     
-    <lastmod>2023-04-05</lastmod>
+    <lastmod>2023-03-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ching367436.github.io/about/</loc>
+    <loc>https://ching367436.github.io/categories/</loc>
     
-    <lastmod>2023-03-23</lastmod>
+    <lastmod>2023-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -141,13 +141,6 @@
   </url>
   
   <url>
-    <loc>https://ching367436.github.io/categories/AIS3/%E6%9C%80%E4%BD%B3%E5%B0%88%E9%A1%8C/</loc>
-    <lastmod>2023-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ching367436.github.io/categories/hello/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -155,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://ching367436.github.io/categories/AIS3/Pre-exam/</loc>
+    <loc>https://ching367436.github.io/categories/AIS3/%E6%9C%80%E4%BD%B3%E5%B0%88%E9%A1%8C/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -163,6 +156,13 @@
   
   <url>
     <loc>https://ching367436.github.io/categories/hello/world/</loc>
+    <lastmod>2023-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ching367436.github.io/categories/AIS3/Pre-exam/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
